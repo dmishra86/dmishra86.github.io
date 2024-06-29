@@ -3,8 +3,8 @@ layout: post
 title: Streamlit-cheatsheet
 description: A quick reference for developers to building interactive web apps
 author: dm
-tags: [cheatsheet, python]
-categories: [Cheetsheet]
+tags: [cheatsheet, python, streamlit]
+categories: [Quick Reference, Cheetsheet]
 pin: true
 math: true
 mermaid: true
