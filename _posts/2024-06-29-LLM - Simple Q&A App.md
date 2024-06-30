@@ -12,6 +12,7 @@ mermaid: true
 image:
     path: /assets/img/simple_qna_app.jpg
     alt: Simple Q&A App
+comments: true
 ---
 
 coming soon...

@@ -5,14 +5,13 @@ description: A quick reference for developers to building interactive web apps
 author: dm
 tags: [cheatsheet, python, streamlit]
 categories: [Quick Reference, Cheetsheet]
-# comments: true
 pin: true
 math: true
 mermaid: true
 image:
     path: /assets/img/streamlit-cheatsheet.png
     alt: screenshot of the streamlit cheatsheet
-
+comments: true
 ---
 
 <!-- [![](/assets/img/streamlit-cheatsheet.png)](https://dmishra86.github.io/streamlit-cheatsheet/)
