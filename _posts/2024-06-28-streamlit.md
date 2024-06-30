@@ -5,6 +5,7 @@ description: A quick reference for developers to building interactive web apps
 author: dm
 tags: [cheatsheet, python, streamlit]
 categories: [Quick Reference, Cheetsheet]
+# comments: true
 pin: true
 math: true
 mermaid: true

@@ -5,6 +5,7 @@ description: Create a straightforward Q&A app using a Large Language Model (LLM)
 author: dm
 tags: [Basic, LLM, python, Generative AI]
 categories: [Large Language Model, Basic]
+# comments: true
 pin: true
 math: true
 mermaid: true
