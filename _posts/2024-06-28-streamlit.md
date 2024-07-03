@@ -11,7 +11,6 @@ mermaid: true
 image:
     path: /assets/img/streamlit-cheatsheet.png
     alt: screenshot of the streamlit cheatsheet
-comments: true
 ---
 
 <!-- [![](/assets/img/streamlit-cheatsheet.png)](https://dmishra86.github.io/streamlit-cheatsheet/)
